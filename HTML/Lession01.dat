@@ -1,0 +1,9 @@
+HTML:- Hyper Text Markup Language
+
+- It is about stating and ending tag.
+- It has a Head portion and Body portion    
+    - Head have meta data, has tag like meta,title etc.
+    - Body have the over all web structure, has tags like header tag(h<n>),paragraph tag(p) etc.
+- It has a "DOCTYPE" and a "html" tag which has head and body tag 
+- To get things dont we have 
+- 
