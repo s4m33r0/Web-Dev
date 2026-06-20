@@ -1,0 +1,49 @@
+/* Universal Selector */
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+/* Type Selector */
+
+p {
+  font-size: 16px;
+  margin: 10px 20px 10px 20px;
+}
+
+/* Class Selector */
+.highlight {
+  background-color: aqua;
+}
+
+/* Id Selector */
+
+#header {
+  background-color: aquamarine;
+}
+
+/* Descendant Selector */
+
+article p {
+  padding: 10px;
+}
+
+/* child selector */
+
+ul > li {
+  list-style-type: square;
+}
+
+/* Pseudo-class selector */
+a:hover {
+  background-color: antiquewhite;
+}
+
+/* Pseudo-element selector */
+p::first-letter {
+  font-weight: 800;
+}
+
+/* Grouping Selector */
